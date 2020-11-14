@@ -9,7 +9,7 @@ function App() {
         <p>
           Hello World ! la team IT-Medicalis<br/>
           Voici l'apport de Ardi It-medicalis
-          Voici l'ajout de Ardi user depuis le compte emmy
+          Voici l'ajout de Ardi user depuis le compte emmy plein
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
