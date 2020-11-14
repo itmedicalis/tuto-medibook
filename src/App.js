@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello World ! la team IT-Medicalis<br/>
-          Voici l'ajout de Ardi
+          Voici l'ajout de Ardi user depuis le compte emmy
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
