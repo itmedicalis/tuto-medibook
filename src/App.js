@@ -11,10 +11,8 @@ function App() {
           Voici la contribution de Ardi depuis le compte admin IT
           Voici la contribution de Ardi depuis le compte user emmyxeme
           Edit <code>src/App.js</code> and save to reload.
+		  Voici la contribution de Ali
         </p>
-		<p>
-			Voici la contribution de Ali
-		</p>
         <a
           className="App-link"
           href="https://reactjs.org"
